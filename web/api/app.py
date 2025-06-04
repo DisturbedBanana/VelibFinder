@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 from flask_cors import CORS
 import sys
 import os
@@ -7,8 +7,12 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from velib_fetcher import VelibFetcher
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='../templates', static_folder='../static')
 CORS(app)  # Enable CORS for all routes
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route('/api/stations', methods=['GET'])
 def get_stations():

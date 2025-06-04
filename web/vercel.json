@@ -12,8 +12,12 @@
             "dest": "api/app.py"
         },
         {
-            "src": "/(.*)",
-            "dest": "/static/$1"
+            "src": "/static/(.*)",
+            "dest": "api/app.py"
+        },
+        {
+            "src": "/",
+            "dest": "api/app.py"
         }
     ]
 } 
