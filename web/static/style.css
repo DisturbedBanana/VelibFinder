@@ -1,0 +1,77 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.table th {
+    background-color: #f1f1f1;
+}
+
+.station-row {
+    cursor: pointer;
+}
+
+.station-row:hover {
+    background-color: #f8f9fa;
+}
+
+.status-active {
+    color: #198754;
+    font-weight: bold;
+}
+
+.status-inactive {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.bike-info {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.bike-info h6 {
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+.status-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.status-indicator.active {
+    background-color: #198754;
+}
+
+.status-indicator.inactive {
+    background-color: #dc3545;
+}
+
+#loading {
+    margin: 20px 0;
+}
+
+.modal-body {
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.bike-list {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-top: 10px;
+}
+
+.bike-item {
+    padding: 5px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.bike-item:last-child {
+    border-bottom: none;
+} 
