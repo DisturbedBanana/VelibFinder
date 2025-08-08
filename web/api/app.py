@@ -58,7 +58,7 @@ class VelibFetcher:
             return None
 
 # Create Flask app
-app = Flask(__name__, template_folder='../templates', static_folder='../static')
+app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
 @app.route('/favicon.ico')
@@ -74,9 +74,131 @@ def robots():
 @app.route('/')
 def index():
     try:
+        # Try to render the template, but provide fallback if it fails
         return render_template('index.html')
     except Exception as e:
-        return jsonify({"error": f"Template error: {str(e)}"}), 500
+        # If template rendering fails, return a simple HTML page
+        html_content = """
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Velib Station Finder - Lucas Guichard</title>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+            <style>
+                body { background-color: #f8f9fa; }
+                .station-card { cursor: pointer; transition: transform 0.2s; }
+                .station-card:hover { transform: translateY(-2px); }
+                .loading { text-align: center; padding: 20px; }
+            </style>
+        </head>
+        <body>
+            <div class="container mt-4">
+                <h1 class="text-center mb-4">🚲 Velib Station Finder</h1>
+                
+                <!-- Search Bar -->
+                <div class="row mb-4">
+                    <div class="col-md-8 mx-auto">
+                        <div class="input-group">
+                            <input type="text" id="searchInput" class="form-control" placeholder="Search for a station...">
+                            <button class="btn btn-primary" onclick="searchStations()">Search</button>
+                            <button class="btn btn-secondary" onclick="refreshData()">Refresh</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Loading Indicator -->
+                <div id="loading" class="text-center d-none">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <!-- Stations Container -->
+                <div id="stationsContainer">
+                    <div class="loading">Click "Refresh" to load stations</div>
+                </div>
+            </div>
+
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+            <script>
+                async function refreshData() {
+                    const loading = document.getElementById('loading');
+                    const container = document.getElementById('stationsContainer');
+                    
+                    loading.classList.remove('d-none');
+                    container.innerHTML = '';
+                    
+                    try {
+                        const response = await fetch('/api/stations');
+                        const stations = await response.json();
+                        displayStations(stations);
+                    } catch (error) {
+                        container.innerHTML = '<div class="alert alert-danger">Error loading stations</div>';
+                    } finally {
+                        loading.classList.add('d-none');
+                    }
+                }
+                
+                async function searchStations() {
+                    const query = document.getElementById('searchInput').value;
+                    if (!query) return refreshData();
+                    
+                    const loading = document.getElementById('loading');
+                    const container = document.getElementById('stationsContainer');
+                    
+                    loading.classList.remove('d-none');
+                    container.innerHTML = '';
+                    
+                    try {
+                        const response = await fetch(`/api/stations/search/${encodeURIComponent(query)}`);
+                        const stations = await response.json();
+                        displayStations(stations);
+                    } catch (error) {
+                        container.innerHTML = '<div class="alert alert-danger">Error searching stations</div>';
+                    } finally {
+                        loading.classList.add('d-none');
+                    }
+                }
+                
+                function displayStations(stations) {
+                    const container = document.getElementById('stationsContainer');
+                    
+                    if (stations.length === 0) {
+                        container.innerHTML = '<div class="alert alert-info">No stations found</div>';
+                        return;
+                    }
+                    
+                    const stationsHtml = stations.map(station => `
+                        <div class="card mb-3 station-card" onclick="showStationDetails('${station.name}')">
+                            <div class="card-body">
+                                <h5 class="card-title">${station.name}</h5>
+                                <p class="card-text">
+                                    <strong>E-Bikes:</strong> ${station.ebike || 0} | 
+                                    <strong>Mechanical:</strong> ${station.mechanical || 0}
+                                </p>
+                                <span class="badge ${station.is_installed && station.is_renting ? 'bg-success' : 'bg-danger'}">
+                                    ${station.is_installed && station.is_renting ? 'Active' : 'Inactive'}
+                                </span>
+                            </div>
+                        </div>
+                    `).join('');
+                    
+                    container.innerHTML = stationsHtml;
+                }
+                
+                function showStationDetails(stationName) {
+                    alert('Station details for: ' + stationName + '\\n\\nThis would show individual bike details in a full implementation.');
+                }
+                
+                // Load stations on page load
+                refreshData();
+            </script>
+        </body>
+        </html>
+        """
+        return html_content
 
 @app.route('/test')
 def test():
