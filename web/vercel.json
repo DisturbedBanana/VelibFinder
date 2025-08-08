@@ -25,7 +25,8 @@
     },
     "functions": {
         "api/app.py": {
-            "maxDuration": 30
+            "maxDuration": 30,
+            "runtime": "python3.9"
         }
     }
 } 

@@ -1,8 +1,7 @@
-from flask import Flask, jsonify, render_template, request, send_from_directory
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 import requests
 import json
-from datetime import datetime
 import os
 
 # Create a simplified VelibFetcher class directly in the app
@@ -63,113 +62,107 @@ CORS(app)  # Enable CORS for all routes
 
 @app.route('/favicon.ico')
 def favicon():
-    # Return a simple 204 No Content response for favicon requests
     return '', 204
 
 @app.route('/robots.txt')
 def robots():
-    # Return a simple robots.txt
     return 'User-agent: *\nDisallow: /', 200, {'Content-Type': 'text/plain'}
 
 @app.route('/')
 def index():
-    try:
-        # Return a simple HTML response instead of using templates
-        html_content = """
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <title>VelibFinder</title>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚲</text></svg>">
-            <style>
-                body { font-family: Arial, sans-serif; margin: 20px; background: #2b2b2b; color: #e0e0e0; }
-                .container { max-width: 1200px; margin: 0 auto; }
-                .header { text-align: center; margin-bottom: 30px; }
-                .search-box { margin: 20px 0; text-align: center; }
-                input[type="text"] { padding: 10px; width: 300px; border: 1px solid #555; background: #3c3c3c; color: #e0e0e0; }
-                button { padding: 10px 20px; background: #5dade2; color: white; border: none; cursor: pointer; }
-                .stations { margin-top: 20px; }
-                .station { padding: 10px; margin: 5px 0; background: #3c3c3c; border-radius: 5px; cursor: pointer; }
-                .station:hover { background: #4a4a4a; }
-                .loading { text-align: center; color: #b8b8b8; }
-            </style>
-        </head>
-        <body>
-            <div class="container">
-                <div class="header">
-                    <h1>🚲 VelibFinder</h1>
-                    <p>Find Velib stations and bike availability in Paris</p>
-                </div>
-                <div class="search-box">
-                    <input type="text" id="searchInput" placeholder="Search for a station...">
-                    <button onclick="searchStations()">Search</button>
-                    <button onclick="loadStations()">Load All Stations</button>
-                </div>
-                <div id="stations" class="stations">
-                    <div class="loading">Click "Load All Stations" to see available bikes</div>
-                </div>
+    html_content = """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>VelibFinder</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚲</text></svg>">
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; background: #2b2b2b; color: #e0e0e0; }
+            .container { max-width: 1200px; margin: 0 auto; }
+            .header { text-align: center; margin-bottom: 30px; }
+            .search-box { margin: 20px 0; text-align: center; }
+            input[type="text"] { padding: 10px; width: 300px; border: 1px solid #555; background: #3c3c3c; color: #e0e0e0; }
+            button { padding: 10px 20px; background: #5dade2; color: white; border: none; cursor: pointer; }
+            .stations { margin-top: 20px; }
+            .station { padding: 10px; margin: 5px 0; background: #3c3c3c; border-radius: 5px; cursor: pointer; }
+            .station:hover { background: #4a4a4a; }
+            .loading { text-align: center; color: #b8b8b8; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>🚲 VelibFinder</h1>
+                <p>Find Velib stations and bike availability in Paris</p>
             </div>
-            <script>
-                async function loadStations() {
-                    const stationsDiv = document.getElementById('stations');
-                    stationsDiv.innerHTML = '<div class="loading">Loading stations...</div>';
-                    
-                    try {
-                        const response = await fetch('/api/stations');
-                        const stations = await response.json();
-                        displayStations(stations);
-                    } catch (error) {
-                        stationsDiv.innerHTML = '<div class="loading">Error loading stations</div>';
-                    }
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search for a station...">
+                <button onclick="searchStations()">Search</button>
+                <button onclick="loadStations()">Load All Stations</button>
+            </div>
+            <div id="stations" class="stations">
+                <div class="loading">Click "Load All Stations" to see available bikes</div>
+            </div>
+        </div>
+        <script>
+            async function loadStations() {
+                const stationsDiv = document.getElementById('stations');
+                stationsDiv.innerHTML = '<div class="loading">Loading stations...</div>';
+                
+                try {
+                    const response = await fetch('/api/stations');
+                    const stations = await response.json();
+                    displayStations(stations);
+                } catch (error) {
+                    stationsDiv.innerHTML = '<div class="loading">Error loading stations</div>';
+                }
+            }
+            
+            async function searchStations() {
+                const query = document.getElementById('searchInput').value;
+                if (!query) return loadStations();
+                
+                const stationsDiv = document.getElementById('stations');
+                stationsDiv.innerHTML = '<div class="loading">Searching...</div>';
+                
+                try {
+                    const response = await fetch(`/api/stations/search/${encodeURIComponent(query)}`);
+                    const stations = await response.json();
+                    displayStations(stations);
+                } catch (error) {
+                    stationsDiv.innerHTML = '<div class="loading">Error searching stations</div>';
+                }
+            }
+            
+            function displayStations(stations) {
+                const stationsDiv = document.getElementById('stations');
+                if (stations.length === 0) {
+                    stationsDiv.innerHTML = '<div class="loading">No stations found</div>';
+                    return;
                 }
                 
-                async function searchStations() {
-                    const query = document.getElementById('searchInput').value;
-                    if (!query) return loadStations();
-                    
-                    const stationsDiv = document.getElementById('stations');
-                    stationsDiv.innerHTML = '<div class="loading">Searching...</div>';
-                    
-                    try {
-                        const response = await fetch(`/api/stations/search/${encodeURIComponent(query)}`);
-                        const stations = await response.json();
-                        displayStations(stations);
-                    } catch (error) {
-                        stationsDiv.innerHTML = '<div class="loading">Error searching stations</div>';
-                    }
-                }
-                
-                function displayStations(stations) {
-                    const stationsDiv = document.getElementById('stations');
-                    if (stations.length === 0) {
-                        stationsDiv.innerHTML = '<div class="loading">No stations found</div>';
-                        return;
-                    }
-                    
-                    stationsDiv.innerHTML = stations.map(station => `
-                        <div class="station" onclick="showStationDetails('${station.name}')">
-                            <h3>${station.name}</h3>
-                            <p>E-Bikes: ${station.ebike || 0} | Mechanical: ${station.mechanical || 0}</p>
-                            <p>Status: ${station.is_installed && station.is_renting ? 'Active' : 'Inactive'}</p>
-                        </div>
-                    `).join('');
-                }
-                
-                function showStationDetails(stationName) {
-                    alert('Station details for: ' + stationName + '\\n\\nThis would show individual bike details in a full implementation.');
-                }
-                
-                // Load stations on page load
-                loadStations();
-            </script>
-        </body>
-        </html>
-        """
-        return html_content
-    except Exception as e:
-        return jsonify({"error": f"Template error: {str(e)}"}), 500
+                stationsDiv.innerHTML = stations.map(station => `
+                    <div class="station" onclick="showStationDetails('${station.name}')">
+                        <h3>${station.name}</h3>
+                        <p>E-Bikes: ${station.ebike || 0} | Mechanical: ${station.mechanical || 0}</p>
+                        <p>Status: ${station.is_installed && station.is_renting ? 'Active' : 'Inactive'}</p>
+                    </div>
+                `).join('');
+            }
+            
+            function showStationDetails(stationName) {
+                alert('Station details for: ' + stationName + '\\n\\nThis would show individual bike details in a full implementation.');
+            }
+            
+            // Load stations on page load
+            loadStations();
+        </script>
+    </body>
+    </html>
+    """
+    return html_content
 
 @app.route('/test')
 def test():
