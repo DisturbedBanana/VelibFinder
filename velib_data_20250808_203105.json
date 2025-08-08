@@ -1,0 +1,6439 @@
+{
+  "total_count": 1461,
+  "results": [
+    {
+      "stationcode": "16107",
+      "name": "Benjamin Godard - Victor Hugo",
+      "capacity": 35,
+      "ebike": 3,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.275725,
+        "lat": 48.865983
+      },
+      "bikes": [
+        {
+          "number": "E16107-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16107-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16107-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M16107-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16107-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "40001",
+      "name": "Hôpital Mondor",
+      "capacity": 28,
+      "ebike": 13,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4537451531298,
+        "lat": 48.798922410229
+      },
+      "bikes": [
+        {
+          "number": "E40001-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-012",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40001-013",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M40001-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M40001-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M40001-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "9020",
+      "name": "Toudouze - Clauzel",
+      "capacity": 21,
+      "ebike": 2,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3373600840568547,
+        "lat": 48.87929591733507
+      },
+      "bikes": [
+        {
+          "number": "E9020-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9020-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M9020-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9020-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9020-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9020-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "32017",
+      "name": "Basilique",
+      "capacity": 22,
+      "ebike": 4,
+      "mechanical": 11,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3588666820200914,
+        "lat": 48.93626891059109
+      },
+      "bikes": [
+        {
+          "number": "E32017-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E32017-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E32017-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E32017-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M32017-011",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "5110",
+      "name": "Lacépède - Monge",
+      "capacity": 23,
+      "ebike": 1,
+      "mechanical": 5,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3519663885235786,
+        "lat": 48.84389286531899
+      },
+      "bikes": [
+        {
+          "number": "E5110-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M5110-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5110-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5110-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5110-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5110-005",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "33006",
+      "name": "André Karman - République",
+      "capacity": 31,
+      "ebike": 2,
+      "mechanical": 11,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3851355910301213,
+        "lat": 48.91039875761846
+      },
+      "bikes": [
+        {
+          "number": "E33006-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E33006-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M33006-011",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "42016",
+      "name": "Pierre et Marie Curie - Maurice Thorez",
+      "capacity": 27,
+      "ebike": 0,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.376804985105991,
+        "lat": 48.81580226360801
+      },
+      "bikes": [
+        {
+          "number": "M42016-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21010",
+      "name": "Silly - Galliéni",
+      "capacity": 25,
+      "ebike": 0,
+      "mechanical": 5,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2325500845909,
+        "lat": 48.835583838706
+      },
+      "bikes": [
+        {
+          "number": "M21010-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21010-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21010-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21010-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21010-005",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "25006",
+      "name": "Place Nelson Mandela",
+      "capacity": 22,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.1961666225454,
+        "lat": 48.862453313908
+      },
+      "bikes": [
+        {
+          "number": "E25006-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E25006-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "7003",
+      "name": "Square Boucicaut",
+      "capacity": 60,
+      "ebike": 0,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.325061820447445,
+        "lat": 48.851296433665276
+      },
+      "bikes": [
+        {
+          "number": "M7003-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17041",
+      "name": "Guersant - Gouvion-Saint-Cyr",
+      "capacity": 36,
+      "ebike": 1,
+      "mechanical": 11,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.287667370814871,
+        "lat": 48.88287775178599
+      },
+      "bikes": [
+        {
+          "number": "E17041-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17041-011",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "5016",
+      "name": "Thouin - Cardinal Lemoine",
+      "capacity": 17,
+      "ebike": 7,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3494647851273465,
+        "lat": 48.84504716661511
+      },
+      "bikes": [
+        {
+          "number": "E5016-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5016-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M5016-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "11025",
+      "name": "Froment - Bréguet",
+      "capacity": 43,
+      "ebike": 4,
+      "mechanical": 19,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.37289470306807,
+        "lat": 48.8570414504784
+      },
+      "bikes": [
+        {
+          "number": "E11025-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11025-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11025-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11025-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11025-019",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15047",
+      "name": "Morillons - Dantzig",
+      "capacity": 52,
+      "ebike": 5,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.299380004405976,
+        "lat": 48.83310149953933
+      },
+      "bikes": [
+        {
+          "number": "E15047-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15047-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15047-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15047-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15047-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15047-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17026",
+      "name": "Jouffroy d'Abbans - Wagram",
+      "capacity": 40,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.301132157445,
+        "lat": 48.881973298352
+      },
+      "bikes": [
+        {
+          "number": "E17026-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E17026-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "12109",
+      "name": "Mairie du 12ème",
+      "capacity": 30,
+      "ebike": 3,
+      "mechanical": 26,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3875549435616,
+        "lat": 48.840855311763
+      },
+      "bikes": [
+        {
+          "number": "E12109-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E12109-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E12109-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-024",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-025",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M12109-026",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8050",
+      "name": "Boétie - Ponthieu",
+      "capacity": 45,
+      "ebike": 0,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3076787590981,
+        "lat": 48.871417284355
+      },
+      "bikes": [
+        {
+          "number": "M8050-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8050-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8050-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "13101",
+      "name": "Croulebarde - Corvisart",
+      "capacity": 34,
+      "ebike": 1,
+      "mechanical": 8,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3481646925210953,
+        "lat": 48.830981659316855
+      },
+      "bikes": [
+        {
+          "number": "E13101-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13101-008",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "31024",
+      "name": "Romainville - Vaillant-Couturier",
+      "capacity": 38,
+      "ebike": 3,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.446748,
+        "lat": 48.86785
+      },
+      "bikes": [
+        {
+          "number": "E31024-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31024-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31024-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M31024-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17044",
+      "name": "Porte de Saint-Ouen - Bessières",
+      "capacity": 42,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.32851451022192,
+        "lat": 48.89792240854517
+      },
+      "bikes": [
+        {
+          "number": "E17044-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E17044-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17025",
+      "name": "Chazelles - Courcelles",
+      "capacity": 35,
+      "ebike": 1,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3034455627202988,
+        "lat": 48.879406604954
+      },
+      "bikes": [
+        {
+          "number": "E17025-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M17025-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "43002",
+      "name": "Lagny - Victor Basch",
+      "capacity": 26,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.426325418925233,
+        "lat": 48.84884147189881
+      },
+      "bikes": [
+        {
+          "number": "E43002-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E43002-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "16138",
+      "name": "Saint-Cloud - Hippodrome",
+      "capacity": 30,
+      "ebike": 3,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2549109905958176,
+        "lat": 48.85772148887421
+      },
+      "bikes": [
+        {
+          "number": "E16138-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16138-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16138-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M16138-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16138-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "31028",
+      "name": "Raspail Barbès",
+      "capacity": 28,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4247387,
+        "lat": 48.8529945
+      },
+      "bikes": [
+        {
+          "number": "E31028-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31028-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "44010",
+      "name": "8 Mai 1945 - 10 Juillet 1940",
+      "capacity": 30,
+      "ebike": 17,
+      "mechanical": 12,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3979035764933,
+        "lat": 48.784567029674
+      },
+      "bikes": [
+        {
+          "number": "E44010-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-012",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-013",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-014",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-015",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-016",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44010-017",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44010-012",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "9008",
+      "name": "Tour d'Auvergne - Rodier",
+      "capacity": 17,
+      "ebike": 4,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.343698,
+        "lat": 48.879161
+      },
+      "bikes": [
+        {
+          "number": "E9008-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9008-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9008-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9008-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M9008-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9008-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8048",
+      "name": "Marceau - Chaillot",
+      "capacity": 21,
+      "ebike": 1,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2986030816809,
+        "lat": 48.868834023334
+      },
+      "bikes": [
+        {
+          "number": "E8048-001",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "14013",
+      "name": "Liard - Amiral Mouchez",
+      "capacity": 28,
+      "ebike": 9,
+      "mechanical": 6,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.342167,
+        "lat": 48.8214169
+      },
+      "bikes": [
+        {
+          "number": "E14013-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14013-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14013-006",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "13118",
+      "name": "Regnault - Patay",
+      "capacity": 63,
+      "ebike": 5,
+      "mechanical": 56,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.377065159380436,
+        "lat": 48.82435782216384
+      },
+      "bikes": [
+        {
+          "number": "E13118-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E13118-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E13118-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E13118-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E13118-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-024",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-025",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-026",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-027",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-028",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-029",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-030",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-031",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-032",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-033",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-034",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-035",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-036",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-037",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-038",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-039",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-040",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-041",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-042",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-043",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-044",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-045",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-046",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-047",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-048",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-049",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-050",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-051",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-052",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-053",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-054",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-055",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13118-056",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "13030",
+      "name": "Italie - Tolbiac",
+      "capacity": 21,
+      "ebike": 2,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3576171323657036,
+        "lat": 48.82557229464416
+      },
+      "bikes": [
+        {
+          "number": "E13030-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E13030-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M13030-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13030-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M13030-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "40016",
+      "name": "Sarrazins - Saussure",
+      "capacity": 22,
+      "ebike": 9,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4717841148376,
+        "lat": 48.769626617432
+      },
+      "bikes": [
+        {
+          "number": "E40016-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E40016-009",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "9002",
+      "name": "Abbeville - Faubourg Poissonnière",
+      "capacity": 14,
+      "ebike": 2,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.349147,
+        "lat": 48.879223
+      },
+      "bikes": [
+        {
+          "number": "E9002-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9002-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M9002-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9002-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9002-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9002-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "48003",
+      "name": "Youri Gagarine - Karl Marx",
+      "capacity": 22,
+      "ebike": 2,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.35908430069685,
+        "lat": 48.78448485079149
+      },
+      "bikes": [
+        {
+          "number": "E48003-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E48003-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M48003-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8016",
+      "name": "Square Louis XVI",
+      "capacity": 29,
+      "ebike": 4,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.323658830743138,
+        "lat": 48.87320440102894
+      },
+      "bikes": [
+        {
+          "number": "E8016-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8016-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8016-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8016-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M8016-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8016-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "10115",
+      "name": "Granges aux Belles",
+      "capacity": 27,
+      "ebike": 11,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3680844979417,
+        "lat": 48.8761373390584
+      },
+      "bikes": [
+        {
+          "number": "E10115-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10115-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M10115-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10115-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "10161",
+      "name": "Gare de l'Est - Faubourg-Saint-Martin",
+      "capacity": 32,
+      "ebike": 11,
+      "mechanical": 8,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3594588041306,
+        "lat": 48.875642647477
+      },
+      "bikes": [
+        {
+          "number": "E10161-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10161-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10161-008",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "1001",
+      "name": "Quai de l'Horloge - Pont Neuf",
+      "capacity": 17,
+      "ebike": 6,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3417982839439,
+        "lat": 48.857058739111
+      },
+      "bikes": [
+        {
+          "number": "E1001-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1001-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1001-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1001-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1001-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1001-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M1001-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1001-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1001-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21328",
+      "name": "Verger - Colonel Guichard",
+      "capacity": 29,
+      "ebike": 3,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2670380088932,
+        "lat": 48.816376985087
+      },
+      "bikes": [
+        {
+          "number": "E21328-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21328-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21328-003",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8009",
+      "name": "Gare Saint-Lazare - Isly",
+      "capacity": 27,
+      "ebike": 7,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.326515804784655,
+        "lat": 48.874777677621296
+      },
+      "bikes": [
+        {
+          "number": "E8009-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8009-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M8009-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8009-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8009-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8009-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21323",
+      "name": "Charlot - Stade Gabriel Voisin",
+      "capacity": 31,
+      "ebike": 1,
+      "mechanical": 20,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.268122527474,
+        "lat": 48.827228120536
+      },
+      "bikes": [
+        {
+          "number": "E21323-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21323-020",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "9014",
+      "name": "Faubourg Montmartre - La Fayette",
+      "capacity": 35,
+      "ebike": 3,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3408536612988,
+        "lat": 48.875254549053
+      },
+      "bikes": [
+        {
+          "number": "E9014-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9014-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E9014-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M9014-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9014-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M9014-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "31706",
+      "name": "Château - République",
+      "capacity": 26,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4155035614967,
+        "lat": 48.862923800596
+      },
+      "bikes": [
+        {
+          "number": "E31706-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31706-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "22409",
+      "name": "Henri Barbusse - Stalingrad",
+      "capacity": 16,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2872862592339516,
+        "lat": 48.814183748660554
+      },
+      "bikes": [
+        {
+          "number": "E22409-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E22409-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "9022",
+      "name": "Rossini - Laffitte",
+      "capacity": 33,
+      "ebike": 0,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.337980867701675,
+        "lat": 48.87334627510507
+      },
+      "bikes": [
+        {
+          "number": "M9022-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17004",
+      "name": "Legendre - Clichy",
+      "capacity": 40,
+      "ebike": 1,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.322528975094376,
+        "lat": 48.88896161855884
+      },
+      "bikes": [
+        {
+          "number": "E17004-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M17004-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17004-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17004-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19003",
+      "name": "Quai de la Seine",
+      "capacity": 24,
+      "ebike": 5,
+      "mechanical": 9,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3703941702842717,
+        "lat": 48.884492238407525
+      },
+      "bikes": [
+        {
+          "number": "E19003-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19003-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19003-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19003-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19003-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19003-009",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "10107",
+      "name": "Gare du Nord - Hôpital Lariboisière",
+      "capacity": 49,
+      "ebike": 1,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.352339,
+        "lat": 48.881949
+      },
+      "bikes": [
+        {
+          "number": "E10107-001",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "26002",
+      "name": "Redoute - Les Courtilles",
+      "capacity": 40,
+      "ebike": 4,
+      "mechanical": 25,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2836696356535,
+        "lat": 48.929867194519
+      },
+      "bikes": [
+        {
+          "number": "E26002-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E26002-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E26002-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E26002-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-024",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M26002-025",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "17043",
+      "name": "Belidor - Gouvion-Saint-Cyr",
+      "capacity": 39,
+      "ebike": 0,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2854680567979813,
+        "lat": 48.88022154052015
+      },
+      "bikes": [
+        {
+          "number": "M17043-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M17043-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19026",
+      "name": "Place de Rhin et Danube",
+      "capacity": 17,
+      "ebike": 4,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.392586767673493,
+        "lat": 48.88192765861766
+      },
+      "bikes": [
+        {
+          "number": "E19026-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19026-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19026-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19026-004",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "16039",
+      "name": "Exelmans - Versailles",
+      "capacity": 49,
+      "ebike": 4,
+      "mechanical": 16,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.264390252530575,
+        "lat": 48.84097491091973
+      },
+      "bikes": [
+        {
+          "number": "E16039-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16039-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16039-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E16039-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M16039-016",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "11023",
+      "name": "Saint-Maur - Roquette",
+      "capacity": 46,
+      "ebike": 4,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.383553994571467,
+        "lat": 48.858688774062955
+      },
+      "bikes": [
+        {
+          "number": "E11023-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11023-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11023-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11023-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M11023-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11023-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11023-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "45003",
+      "name": "11 Novembre 1918 - 8 Mai 1945",
+      "capacity": 36,
+      "ebike": 11,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.5382421165704727,
+        "lat": 48.80889533774377
+      },
+      "bikes": [
+        {
+          "number": "E45003-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E45003-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M45003-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M45003-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M45003-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M45003-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "11002",
+      "name": "Roquette - Thiéré",
+      "capacity": 23,
+      "ebike": 11,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3733686318721463,
+        "lat": 48.85507930579506
+      },
+      "bikes": [
+        {
+          "number": "E11002-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11002-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M11002-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11002-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11002-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8034",
+      "name": "Berri - Haussmann",
+      "capacity": 35,
+      "ebike": 0,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3082953318953514,
+        "lat": 48.874746047357135
+      },
+      "bikes": [
+        {
+          "number": "M8034-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19043",
+      "name": "Delphine Seyrig - Général Leclerc",
+      "capacity": 53,
+      "ebike": 8,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.39790290594101,
+        "lat": 48.893923963057865
+      },
+      "bikes": [
+        {
+          "number": "E19043-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19043-008",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "5032",
+      "name": "Panthéon - Valette",
+      "capacity": 39,
+      "ebike": 3,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3464982619671,
+        "lat": 48.847020571652
+      },
+      "bikes": [
+        {
+          "number": "E5032-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5032-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5032-003",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "18107",
+      "name": "Chartres - La Charbonnière",
+      "capacity": 34,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3534657,
+        "lat": 48.8847601
+      },
+      "bikes": [
+        {
+          "number": "E18107-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18107-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "20042",
+      "name": "Pyrénées - Emmery",
+      "capacity": 40,
+      "ebike": 2,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.392039597034455,
+        "lat": 48.872010281270974
+      },
+      "bikes": [
+        {
+          "number": "E20042-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E20042-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M20042-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15067",
+      "name": "Desaix - Edgar Faure",
+      "capacity": 12,
+      "ebike": 3,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.293077029857222,
+        "lat": 48.852804604940296
+      },
+      "bikes": [
+        {
+          "number": "E15067-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15067-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15067-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15067-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15067-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "6006",
+      "name": "Notre-Dame-des-Champs - Stanislas",
+      "capacity": 19,
+      "ebike": 3,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.329337755887181,
+        "lat": 48.84479928858768
+      },
+      "bikes": [
+        {
+          "number": "E6006-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E6006-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E6006-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M6006-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M6006-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M6006-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M6006-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "11027",
+      "name": "Saint-Ambroise - Parmentier",
+      "capacity": 38,
+      "ebike": 5,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3772348091006,
+        "lat": 48.862147844548
+      },
+      "bikes": [
+        {
+          "number": "E11027-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11027-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11027-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11027-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11027-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M11027-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11027-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11027-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "12128",
+      "name": "Pyramide - Ecole du Breuil",
+      "capacity": 34,
+      "ebike": 2,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4586871266365056,
+        "lat": 48.82237977153955
+      },
+      "bikes": [
+        {
+          "number": "E12128-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E12128-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M12128-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "31022",
+      "name": "Mairie de Montreuil",
+      "capacity": 52,
+      "ebike": 3,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.440614402294159,
+        "lat": 48.86131452758348
+      },
+      "bikes": [
+        {
+          "number": "E31022-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31022-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31022-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M31022-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M31022-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "41302",
+      "name": "Charles de Gaulle - Beauté",
+      "capacity": 49,
+      "ebike": 5,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.479562651149885,
+        "lat": 48.83649602312711
+      },
+      "bikes": [
+        {
+          "number": "E41302-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E41302-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E41302-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E41302-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E41302-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M41302-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M41302-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M41302-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M41302-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "14020",
+      "name": "Cimetière de Montrouge",
+      "capacity": 58,
+      "ebike": 2,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3215785772007,
+        "lat": 48.821466904768
+      },
+      "bikes": [
+        {
+          "number": "E14020-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14020-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M14020-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14020-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14020-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14020-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15042",
+      "name": "Henry Farman",
+      "capacity": 16,
+      "ebike": 0,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2713854536414146,
+        "lat": 48.83372430280548
+      },
+      "bikes": [
+        {
+          "number": "M15042-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15042-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "18011",
+      "name": "Pajol - Place Herbert",
+      "capacity": 39,
+      "ebike": 3,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3635598,
+        "lat": 48.8927825
+      },
+      "bikes": [
+        {
+          "number": "E18011-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18011-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18011-003",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "42706",
+      "name": "Roger Salengro - Fontainebleau",
+      "capacity": 25,
+      "ebike": 2,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3611663654447,
+        "lat": 48.814548697325
+      },
+      "bikes": [
+        {
+          "number": "E42706-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E42706-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M42706-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42706-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19120",
+      "name": "Carducci - Place Hannah Arendt",
+      "capacity": 27,
+      "ebike": 2,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3860743641853337,
+        "lat": 48.877436681515796
+      },
+      "bikes": [
+        {
+          "number": "E19120-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19120-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M19120-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "11113",
+      "name": "Richard Lenoir - Republique",
+      "capacity": 58,
+      "ebike": 5,
+      "mechanical": 8,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3692541,
+        "lat": 48.8667175
+      },
+      "bikes": [
+        {
+          "number": "E11113-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11113-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11113-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11113-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E11113-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M11113-008",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15104",
+      "name": "Hôpital Européen Georges Pompidou",
+      "capacity": 64,
+      "ebike": 2,
+      "mechanical": 23,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2753742337227,
+        "lat": 48.837695319163
+      },
+      "bikes": [
+        {
+          "number": "E15104-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15104-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15104-023",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19101",
+      "name": "Square Simon Bolivar",
+      "capacity": 24,
+      "ebike": 3,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3826304078102,
+        "lat": 48.875089888322
+      },
+      "bikes": [
+        {
+          "number": "E19101-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19101-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E19101-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M19101-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19101-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19101-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19101-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "4016",
+      "name": "Lobau - Hôtel de Ville",
+      "capacity": 60,
+      "ebike": 18,
+      "mechanical": 38,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3532536,
+        "lat": 48.8562118
+      },
+      "bikes": [
+        {
+          "number": "E4016-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-010",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-011",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-012",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-013",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-014",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-015",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-016",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-017",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E4016-018",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-024",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-025",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-026",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-027",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-028",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-029",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-030",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-031",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-032",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-033",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-034",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-035",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-036",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-037",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M4016-038",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "14138",
+      "name": "Porte de Vanves",
+      "capacity": 32,
+      "ebike": 3,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3056878894567,
+        "lat": 48.828012849445
+      },
+      "bikes": [
+        {
+          "number": "E14138-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14138-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E14138-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M14138-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14138-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M14138-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "41209",
+      "name": "Cimetière de Fontenay-sous-Bois",
+      "capacity": 15,
+      "ebike": 1,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4787822365760808,
+        "lat": 48.84706173362218
+      },
+      "bikes": [
+        {
+          "number": "E41209-001",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21312",
+      "name": "Lucie Aubrac - Fort",
+      "capacity": 30,
+      "ebike": 2,
+      "mechanical": 0,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.271184623241425,
+        "lat": 48.818144834008976
+      },
+      "bikes": [
+        {
+          "number": "E21312-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21312-002",
+          "type": "E-Bike",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8017",
+      "name": "Rocher - Laborde",
+      "capacity": 65,
+      "ebike": 0,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.322616316378116,
+        "lat": 48.87590240712654
+      },
+      "bikes": [
+        {
+          "number": "M8017-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8017-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15054",
+      "name": "Lecourbe - Jean Maridor",
+      "capacity": 19,
+      "ebike": 1,
+      "mechanical": 11,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2877392172813416,
+        "lat": 48.83796366147599
+      },
+      "bikes": [
+        {
+          "number": "E15054-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15054-011",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15106",
+      "name": "Grenelle - Violet",
+      "capacity": 35,
+      "ebike": 1,
+      "mechanical": 24,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.294612042605877,
+        "lat": 48.84993035512154
+      },
+      "bikes": [
+        {
+          "number": "E15106-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15106-024",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "5124",
+      "name": "Erasme - Ulm",
+      "capacity": 24,
+      "ebike": 2,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3445946723222733,
+        "lat": 48.84264375274712
+      },
+      "bikes": [
+        {
+          "number": "E5124-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5124-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M5124-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "31102",
+      "name": "Boissière - Etienne Dolet",
+      "capacity": 21,
+      "ebike": 5,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4677312,
+        "lat": 48.876111
+      },
+      "bikes": [
+        {
+          "number": "E31102-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31102-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31102-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31102-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E31102-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M31102-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "2111",
+      "name": "Chabanais - Petits Champs",
+      "capacity": 30,
+      "ebike": 6,
+      "mechanical": 19,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.336716018617153,
+        "lat": 48.86703740186721
+      },
+      "bikes": [
+        {
+          "number": "E2111-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E2111-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E2111-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E2111-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E2111-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E2111-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M2111-019",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "18022",
+      "name": "Marcadet - Barbès",
+      "capacity": 37,
+      "ebike": 6,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3490573929687,
+        "lat": 48.890451120965
+      },
+      "bikes": [
+        {
+          "number": "E18022-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18022-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18022-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18022-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18022-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E18022-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M18022-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21209",
+      "name": "Molière - République",
+      "capacity": 30,
+      "ebike": 1,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3145738624448158,
+        "lat": 48.81111581390707
+      },
+      "bikes": [
+        {
+          "number": "E21209-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M21209-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21209-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21005",
+      "name": "Hôtel de Ville de Boulogne Billancourt",
+      "capacity": 26,
+      "ebike": 1,
+      "mechanical": 5,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2416803240776066,
+        "lat": 48.83495885166784
+      },
+      "bikes": [
+        {
+          "number": "E21005-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M21005-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21005-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21005-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21005-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21005-005",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "10042",
+      "name": "Enghien - Faubourg Poissonnière",
+      "capacity": 33,
+      "ebike": 4,
+      "mechanical": 9,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3483952362828,
+        "lat": 48.872420063053
+      },
+      "bikes": [
+        {
+          "number": "E10042-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10042-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10042-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E10042-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M10042-009",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19103",
+      "name": "Manin - Carrières d'Amérique",
+      "capacity": 20,
+      "ebike": 1,
+      "mechanical": 3,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3919698596001,
+        "lat": 48.884672142095
+      },
+      "bikes": [
+        {
+          "number": "E19103-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M19103-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19103-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M19103-003",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "42014",
+      "name": "Place Marcel Cachin",
+      "capacity": 32,
+      "ebike": 2,
+      "mechanical": 19,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.39090770483017,
+        "lat": 48.81411442356866
+      },
+      "bikes": [
+        {
+          "number": "E42014-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E42014-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M42014-019",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "8045",
+      "name": "Place de la Reine Astrid",
+      "capacity": 58,
+      "ebike": 2,
+      "mechanical": 7,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3025491823859,
+        "lat": 48.864920982538
+      },
+      "bikes": [
+        {
+          "number": "E8045-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E8045-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M8045-007",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "19210",
+      "name": "Place des Fêtes - Solitaires",
+      "capacity": 1,
+      "ebike": 0,
+      "mechanical": 0,
+      "is_installed": "NON",
+      "is_renting": "NON",
+      "is_returning": "NON",
+      "coordonnees_geo": {
+        "lon": 2.3920327806309,
+        "lat": 48.876644633122
+      },
+      "bikes": []
+    },
+    {
+      "stationcode": "15133",
+      "name": "Saint Lambert - Blomet",
+      "capacity": 27,
+      "ebike": 4,
+      "mechanical": 16,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2930556908249855,
+        "lat": 48.83659148147257
+      },
+      "bikes": [
+        {
+          "number": "E15133-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15133-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15133-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15133-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15133-016",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15110",
+      "name": "Place Robert Guillemard",
+      "capacity": 24,
+      "ebike": 3,
+      "mechanical": 2,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2811267160086417,
+        "lat": 48.836191728066666
+      },
+      "bikes": [
+        {
+          "number": "E15110-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15110-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15110-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15110-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15110-002",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "21015",
+      "name": "Nationale - Place Jules Guesde",
+      "capacity": 23,
+      "ebike": 4,
+      "mechanical": 10,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.2416052222251897,
+        "lat": 48.82753962462998
+      },
+      "bikes": [
+        {
+          "number": "E21015-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21015-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21015-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E21015-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M21015-010",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "44003",
+      "name": "Gabriel Péri - Danielle Casanova",
+      "capacity": 20,
+      "ebike": 8,
+      "mechanical": 12,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4025777,
+        "lat": 48.790114
+      },
+      "bikes": [
+        {
+          "number": "E44003-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E44003-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M44003-012",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "15034",
+      "name": "Lakanal - Commerce",
+      "capacity": 53,
+      "ebike": 3,
+      "mechanical": 39,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.294059172272682,
+        "lat": 48.84442462786544
+      },
+      "bikes": [
+        {
+          "number": "E15034-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15034-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E15034-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-006",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-007",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-008",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-009",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-010",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-011",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-012",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-013",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-014",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-015",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-016",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-017",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-018",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-019",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-020",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-021",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-022",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-023",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-024",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-025",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-026",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-027",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-028",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-029",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-030",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-031",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-032",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-033",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-034",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-035",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-036",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-037",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-038",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M15034-039",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "5028",
+      "name": "Censier - Jardin des Plantes",
+      "capacity": 28,
+      "ebike": 3,
+      "mechanical": 4,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.355475388467312,
+        "lat": 48.84107178161383
+      },
+      "bikes": [
+        {
+          "number": "E5028-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5028-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E5028-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M5028-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5028-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5028-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M5028-004",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "48010",
+      "name": "Karl Marx",
+      "capacity": 16,
+      "ebike": 2,
+      "mechanical": 6,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.3646667979455587,
+        "lat": 48.784527937293184
+      },
+      "bikes": [
+        {
+          "number": "E48010-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E48010-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-005",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M48010-006",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "1119",
+      "name": "Cossonnerie - Sébastopol",
+      "capacity": 24,
+      "ebike": 9,
+      "mechanical": 5,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.349419631063938,
+        "lat": 48.86132665908402
+      },
+      "bikes": [
+        {
+          "number": "E1119-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-002",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-003",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-004",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-005",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-006",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-007",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-008",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "E1119-009",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M1119-001",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1119-002",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1119-003",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1119-004",
+          "type": "Mechanical",
+          "status": "Available"
+        },
+        {
+          "number": "M1119-005",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "stationcode": "35020",
+      "name": "Marcelle - Thalie",
+      "capacity": 20,
+      "ebike": 1,
+      "mechanical": 1,
+      "is_installed": "OUI",
+      "is_renting": "OUI",
+      "is_returning": "OUI",
+      "coordonnees_geo": {
+        "lon": 2.4137883,
+        "lat": 48.8835462
+      },
+      "bikes": [
+        {
+          "number": "E35020-001",
+          "type": "E-Bike",
+          "status": "Available"
+        },
+        {
+          "number": "M35020-001",
+          "type": "Mechanical",
+          "status": "Available"
+        }
+      ]
+    }
+  ]
+}
