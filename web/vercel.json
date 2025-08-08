@@ -9,24 +9,18 @@
     "routes": [
         {
             "src": "/api/(.*)",
-            "dest": "/api/app.py"
+            "dest": "api/app.py"
         },
         {
             "src": "/static/(.*)",
-            "dest": "/api/app.py"
+            "dest": "api/app.py"
         },
         {
             "src": "/(.*)",
-            "dest": "/api/app.py"
+            "dest": "api/app.py"
         }
     ],
     "env": {
         "PYTHONPATH": "."
-    },
-    "functions": {
-        "api/app.py": {
-            "maxDuration": 30,
-            "runtime": "python3.9"
-        }
     }
 } 
