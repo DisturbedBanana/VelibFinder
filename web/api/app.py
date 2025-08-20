@@ -15,8 +15,10 @@ class VelibFetcher:
                 "limit": limit,
                 "select": "stationcode,name,capacity,ebike,mechanical,is_installed,is_renting,is_returning,coordonnees_geo"
             }
-            
-            response = requests.get(self.base_url, params=params, timeout=10)
+            headers = {
+                "User-Agent": "VelibStationFinder/1.0 (+https://vercel.com)"
+            }
+            response = requests.get(self.base_url, params=params, headers=headers, timeout=10)
             response.raise_for_status()
             
             data = response.json()
@@ -54,7 +56,8 @@ class VelibFetcher:
             return data
         except Exception as e:
             print(f"Error fetching data: {e}")
-            return None
+            # Return an empty structure to avoid 500s in handlers
+            return {"results": []}
 
 # Create Flask app
 app = Flask(__name__)
@@ -203,9 +206,11 @@ def get_stations():
         data = fetcher.get_stations()
         if data and "results" in data:
             return jsonify(data["results"])
-        return jsonify({"error": "Failed to fetch data"}), 500
+        # Graceful empty array if upstream fails
+        return jsonify([])
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        # Never crash the function; return empty list to keep UI up
+        return jsonify([])
 
 @app.route('/api/stations/search/<query>', methods=['GET'])
 def search_stations(query):
@@ -219,9 +224,9 @@ def search_stations(query):
                 if query.lower() in station.get("name", "").lower()
             ]
             return jsonify(filtered_stations)
-        return jsonify({"error": "Failed to fetch data"}), 500
+        return jsonify([])
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify([])
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8080))) 

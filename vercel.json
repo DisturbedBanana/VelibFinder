@@ -1,0 +1,24 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "web/api/app.py",
+            "use": "@vercel/python",
+            "config": { "runtime": "python3.11" }
+        }
+    ],
+    "functions": {
+        "web/api/**/*.py": {
+            "runtime": "python3.11"
+        }
+    },
+    "routes": [
+        { "src": "/api/(.*)", "dest": "web/api/app.py" },
+        { "src": "/static/(.*)", "dest": "web/api/app.py" },
+        { "src": "/(.*)", "dest": "web/api/app.py" }
+    ],
+    "env": {
+        "PYTHONPATH": "web"
+    },
+    "installCommand": "cd web && pip install -r requirements.txt"
+}
